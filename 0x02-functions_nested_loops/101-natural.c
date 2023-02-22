@@ -12,10 +12,10 @@ int main(void)
 	{
 		if  ((i % 3 == 0) || (i % 5 == 0))
 		{
-			z = z + i;
+			sum = sum + i;
 		}
 		i++;
 	}
-	printf("%d\n", z);
+	printf("%d\n", sum);
 	return (0);
 }
