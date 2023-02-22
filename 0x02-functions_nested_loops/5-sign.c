@@ -2,7 +2,7 @@
 /**
  * print_sign - prints a sign for whatever xter
  * @n: the checked xter
- * Return: 1 for positive numbers, -1 for negative numbers and 0 for anyother xter
+ * Return: 1 (positive numbers), -1 (negative numbers) and 0 (anyother xter)
  */
 int print_sign(int n)
 {
