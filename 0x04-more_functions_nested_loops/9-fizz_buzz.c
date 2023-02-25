@@ -1,8 +1,11 @@
+#include "main.h"
 #include <stdio.h>
+
 /**
  * main - FizzBuzz
  * Return: 0 success
  */
+
 int main(void)
 {
 	int i;
